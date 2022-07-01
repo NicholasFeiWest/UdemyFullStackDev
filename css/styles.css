@@ -1,0 +1,45 @@
+body
+{
+  background-color: #CDF0EA;
+}
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+
+
+}
+
+h1{
+  color: #66BFBF;
+  font-size: 100px;
+}
+h1:hover
+{
+  color: gold;
+}
+
+h3
+{
+  color: #73A9AD;
+}
+
+h4{
+  color: #576F72;
+
+}
+
+.try
+{
+  background: green;
+  width: 10%;
+  height: 10%;
+}
+
+#heading
+{
+  color: blue;
+}
